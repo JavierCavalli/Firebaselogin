@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Built With: 
 
 1. React
-2. useState() useNavigate() hook
 3. FireBase
 4. Auth0
 5. React-router-dom
@@ -13,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo: 
 
-https://incomparable-crumble-735f3a.netlify.app/
+https://charming-concha-40b7d8.netlify.app/
 
 ![image](https://i.ibb.co/WpsJ2f0/firebase.png)
 
