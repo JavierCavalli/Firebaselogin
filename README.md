@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Login / Logout
 
 Prueba de login con Firebase y Auth0.
 
